@@ -1,0 +1,17 @@
+{
+  "main": "student-api.raml",
+  "name": "student-api",
+  "groupId": "a3c7b74d-dbcb-47ad-94c2-8c65d28781c0",
+  "assetId": "student-api",
+  "version": "1.0.0",
+  "classifier": "raml",
+  "tags": [],
+  "descriptorVersion": "1.0.0",
+  "dependencies": [
+    {
+      "groupId": "a3c7b74d-dbcb-47ad-94c2-8c65d28781c0",
+      "assetId": "commoncode",
+      "version": "1.0.0"
+    }
+  ]
+}
